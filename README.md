@@ -1,3 +1,5 @@
+<p align="center"><img src="brand/flow-canvas-logo-256.png" width="128" height="128" alt="Flow Canvas logo"></p>
+
 # Flow Canvas — process and workflow designer for Mendix
 
 A canvas for the processes your app keeps in its own entities: approval chains, onboarding, case handling, stage
@@ -6,8 +8,6 @@ out by itself, and turns every gesture — add from the palette, drop on an edge
 parallel — into **your** microflow or nanoflow. The same widget shows a running case: where it is, the path it took,
 who it waits on. The widget stores nothing and decides nothing: your app owns the data, the rules, the versions and
 the engine.
-
-![Flow Canvas](brand/flow-canvas-logo-512.png)
 
 ## Demo video
 
