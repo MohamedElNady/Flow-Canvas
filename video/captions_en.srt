@@ -1,0 +1,124 @@
+1
+00:00:00,350 --> 00:00:01,838
+This is Flow Canvas:
+
+2
+00:00:02,822 --> 00:00:07,134
+a process designer for Mendix that draws the flows your app already keeps.
+
+3
+00:00:08,516 --> 00:00:10,942
+Here are three flows, kept three ways.
+
+4
+00:00:11,851 --> 00:00:13,264
+Open the purchase request.
+
+5
+00:00:14,192 --> 00:00:16,179
+Steps sit in a lane for each role.
+
+6
+00:00:17,096 --> 00:00:19,333
+A parallel review must all finish.
+
+7
+00:00:20,276 --> 00:00:23,426
+The CFO step only runs above fifty thousand.
+
+8
+00:00:24,344 --> 00:00:25,856
+And returns send work back.
+
+9
+00:00:26,828 --> 00:00:29,603
+Problems from your own checks are marked right on the step.
+
+10
+00:00:30,886 --> 00:00:32,211
+Building is drag and drop.
+
+11
+00:00:33,358 --> 00:00:37,470
+Drop a kind onto an edge, and it is inserted between the two steps.
+
+12
+00:00:38,398 --> 00:00:40,061
+Drag a step into another lane.
+
+13
+00:00:40,990 --> 00:00:43,590
+Select two steps, and run them in parallel.
+
+14
+00:00:44,518 --> 00:00:46,568
+Every gesture calls your microflow:
+
+15
+00:00:47,507 --> 00:00:50,781
+the canvas shows the change at once, and your app decides.
+
+16
+00:00:52,044 --> 00:00:56,156
+Drag a step's handle back to an earlier step, and it can send the case back.
+
+17
+00:00:57,096 --> 00:00:59,122
+The step menu holds your own actions.
+
+18
+00:01:00,036 --> 00:01:02,599
+Make a step mandatory, and Delete is gone.
+
+19
+00:01:03,579 --> 00:01:05,304
+Find any step with Control F.
+
+20
+00:01:06,228 --> 00:01:09,278
+And the variant picker dims the steps of the other variant.
+
+21
+00:01:10,574 --> 00:01:12,462
+The same widget shows a running case.
+
+22
+00:01:13,407 --> 00:01:14,706
+The path it took is bold.
+
+23
+00:01:15,879 --> 00:01:18,841
+The current step says who it waits on, and since when.
+
+24
+00:01:19,754 --> 00:01:21,004
+Next step moves it on.
+
+25
+00:01:22,226 --> 00:01:24,539
+On the current step, your own actions:
+
+26
+00:01:25,466 --> 00:01:27,141
+remind the owner, or skip.
+
+27
+00:01:28,058 --> 00:01:30,870
+And an administrator can move the case to any step.
+
+28
+00:01:32,152 --> 00:01:33,903
+Every text is translatable.
+
+29
+00:01:34,816 --> 00:01:38,904
+Right to left mirrors the whole canvas, and dark mode follows your theme.
+
+30
+00:01:40,257 --> 00:01:46,544
+Flow Canvas works from Mendix ten point six, keyboard first, and keeps your data and your rules in your app.
+
+31
+00:01:47,478 --> 00:01:49,603
+Coming soon to the Mendix Marketplace.
+
